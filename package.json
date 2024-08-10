@@ -1,0 +1,14 @@
+{
+	"name": "http2server",
+	"version": "1.0.0",
+	"main": "index.js",
+	"devDependencies": {
+		"commander": "^12.1.0"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"description": ""
+}
